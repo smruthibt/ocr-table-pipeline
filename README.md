@@ -40,7 +40,7 @@ brew install tesseract
 sudo apt install tesseract-ocr
 
 # Windows — download installer from:
-# https://github.com/UB-Mannheim/tesseract/wiki
+https://github.com/UB-Mannheim/tesseract/wiki
 ```
 
 Then install Python dependencies:
