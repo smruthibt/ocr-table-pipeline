@@ -1,0 +1,17 @@
+# Core image processing
+opencv-python
+numpy
+pillow
+img2table
+tabulate
+
+# OCR
+pytesseract
+
+# PDF → image
+pymupdf
+
+# Data handling
+pandas
+scikit-learn
+tqdm

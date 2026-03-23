@@ -1,0 +1,257 @@
+{
+  "total_tables": 14,
+  "tables": [
+    {
+      "global_table_index": 1,
+      "page_number": 1,
+      "table_index": 0,
+      "table_id": "page_1_table_0",
+      "extractor": "ruled_grid",
+      "csv_path": "out/tables/page_1_table_0.csv",
+      "crop_path": null,
+      "raw_shape": [
+        59,
+        28
+      ],
+      "clean_shape": [
+        58,
+        28
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 2,
+      "page_number": 2,
+      "table_index": 0,
+      "table_id": "page_2_table_0",
+      "extractor": "ruled_grid",
+      "csv_path": "out/tables/page_2_table_0.csv",
+      "crop_path": null,
+      "raw_shape": [
+        44,
+        22
+      ],
+      "clean_shape": [
+        43,
+        13
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 3,
+      "page_number": 3,
+      "table_index": 0,
+      "table_id": "0",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_0.csv",
+      "crop_path": "out/page_3_ocr/crops/table_01.png",
+      "raw_shape": [
+        15,
+        6
+      ],
+      "clean_shape": [
+        13,
+        6
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 4,
+      "page_number": 3,
+      "table_index": 1,
+      "table_id": "1",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_1.csv",
+      "crop_path": "out/page_3_ocr/crops/table_02.png",
+      "raw_shape": [
+        16,
+        9
+      ],
+      "clean_shape": [
+        14,
+        9
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 5,
+      "page_number": 3,
+      "table_index": 2,
+      "table_id": "2",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_2.csv",
+      "crop_path": "out/page_3_ocr/crops/table_03.png",
+      "raw_shape": [
+        16,
+        11
+      ],
+      "clean_shape": [
+        14,
+        11
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 6,
+      "page_number": 3,
+      "table_index": 3,
+      "table_id": "3",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_3.csv",
+      "crop_path": "out/page_3_ocr/crops/table_04.png",
+      "raw_shape": [
+        6,
+        4
+      ],
+      "clean_shape": [
+        3,
+        4
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 7,
+      "page_number": 3,
+      "table_index": 4,
+      "table_id": "4",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_4.csv",
+      "crop_path": "out/page_3_ocr/crops/table_05.png",
+      "raw_shape": [
+        6,
+        6
+      ],
+      "clean_shape": [
+        4,
+        6
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 8,
+      "page_number": 3,
+      "table_index": 5,
+      "table_id": "5",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_5.csv",
+      "crop_path": "out/page_3_ocr/crops/table_06.png",
+      "raw_shape": [
+        16,
+        9
+      ],
+      "clean_shape": [
+        14,
+        9
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 9,
+      "page_number": 3,
+      "table_index": 6,
+      "table_id": "6",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_6.csv",
+      "crop_path": "out/page_3_ocr/crops/table_07.png",
+      "raw_shape": [
+        19,
+        6
+      ],
+      "clean_shape": [
+        18,
+        6
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 10,
+      "page_number": 3,
+      "table_index": 7,
+      "table_id": "7",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_7.csv",
+      "crop_path": "out/page_3_ocr/crops/table_08.png",
+      "raw_shape": [
+        14,
+        7
+      ],
+      "clean_shape": [
+        13,
+        7
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 11,
+      "page_number": 3,
+      "table_index": 8,
+      "table_id": "8",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_8.csv",
+      "crop_path": "out/page_3_ocr/crops/table_09.png",
+      "raw_shape": [
+        15,
+        5
+      ],
+      "clean_shape": [
+        12,
+        5
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 12,
+      "page_number": 3,
+      "table_index": 9,
+      "table_id": "9",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_9.csv",
+      "crop_path": "out/page_3_ocr/crops/table_10.png",
+      "raw_shape": [
+        15,
+        7
+      ],
+      "clean_shape": [
+        13,
+        7
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 13,
+      "page_number": 3,
+      "table_index": 10,
+      "table_id": "10",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_10.csv",
+      "crop_path": "out/page_3_ocr/crops/table_11.png",
+      "raw_shape": [
+        15,
+        11
+      ],
+      "clean_shape": [
+        13,
+        11
+      ],
+      "status": "ok"
+    },
+    {
+      "global_table_index": 14,
+      "page_number": 3,
+      "table_index": 11,
+      "table_id": "11",
+      "extractor": "ruled_grid",
+      "csv_path": "out/page_3_ocr/tables/page_3_table_11.csv",
+      "crop_path": "out/page_3_ocr/crops/table_12.png",
+      "raw_shape": [
+        20,
+        15
+      ],
+      "clean_shape": [
+        14,
+        14
+      ],
+      "status": "ok"
+    }
+  ]
+}
